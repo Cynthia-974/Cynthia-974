@@ -18,6 +18,11 @@
 ### 📋 Gestion de Projet
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+### 🎮 Jeux du moment
+![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-%234198BC.svg?style=for-the-badge&logo=genshinimpact&logoColor=white)
+
+> "Ad astra abyssosque !" ✨ En plein farm de composants en ce moment.
+
 ### 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cynthiavelio/)
 
