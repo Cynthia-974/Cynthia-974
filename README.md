@@ -19,7 +19,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 📊 Mes Stats GitHub
-![Les stats de Cynthia-974](https://github-readme-stats.vercel.app/api?username=Cynthia-974&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Cynthia-974&show_icons=true&theme=radical
 
 ### 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cynthiavelio/)
